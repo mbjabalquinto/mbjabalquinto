@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mbjabalquinto
 - 👀 I’m interested in become a developer.
 - 🌱 I’m currently a student in **42 Málaga**.
-- 📫 How to reach me: [LinkedIn](https://github.com/mbjabalquinto)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/marcos-jabalquinto-ibañez-9b344a35)
   
 ### 🛠️ My Tech Stack
 
